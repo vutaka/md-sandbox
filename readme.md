@@ -12,7 +12,7 @@
 
 ### 基本的な使い方
 
-[src\component\MarkdownViewer.tsx](src\component\MarkdownViewer.tsx) 参照
+[src/component/MarkdownViewer.tsx](src/component/MarkdownViewer.tsx) 参照
 
 ### 対応していない記法
 
@@ -33,6 +33,6 @@
 
 ### 拡張方法
 
-[src\component\MarkdownViewer.tsx](src\component\MarkdownViewer.tsx) 参照
+[src/component/MarkdownViewer.tsx](src/component/MarkdownViewer.tsx) 参照
 
 リンク先を書き換えることも可能
